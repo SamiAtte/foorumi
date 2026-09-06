@@ -8,7 +8,7 @@ Yksinkertainen keskstelufoorumi, joka koostuu pääasiassa seuraavista osista:
 * Käyttäjäsivu sisältää käyttäjän aloittamat langat, sekä ne langat, joille käyttäjä on 
   kirjoittanut viestejä ja mahdollisesti muita tietoja käyttäjästä.
 
-* Jokainen keskustelu lanka aukeaa omaksi sivukseen, jolla näkyy kyseisen langan sisältö. 
+* Jokainen keskustelulanka aukeaa omaksi sivukseen, jolla näkyy kyseisen langan sisältö. 
   Keskustelulangan viestit sisältävät kirjoittajan nimen ja profiilikuvan, sekä viestin 
   varsinaisen sisällön, joka voi alustavasti olla tekstiä ja/tai kuvia. Keskustelulanka 
   alkaa aloitusviestillä, joka sisältää normaalin viestin sisällön lisäksi langan otsikon, 
